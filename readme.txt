@@ -1,0 +1,2 @@
+Djangoチュートリアル
+@shinya_hd
